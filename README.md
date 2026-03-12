@@ -11,7 +11,6 @@ I have been coding for several years, always curious to learn new things and imp
 - 🎓 IUT student (STI2D → Computer Science)  
 - ⚡ Passion: Fusion of technology and creativity  
 - 🌍 Based in France  
-- 🌙 Fan of the “Tsukiyomi” concept – balance between night and light  
 
 ---
 
