@@ -10,7 +10,7 @@
 
 <h2 align="center">⚡ 𝙏𝙀𝘾𝙃 𝙎𝙏𝘼𝘾𝙆 ⚡</h2>
 
-<!-- LANGUAGES -->
+<!-- BACKEND -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2e88,100:2a0a2a&height=40&section=header&text=⌈%20LANGUAGES%20⌋&fontSize=20&fontColor=ffffff"/>
 </p>
@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,nginx,apache" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,nginx" />
 </p>
 
 
