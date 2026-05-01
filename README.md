@@ -27,6 +27,10 @@
 
 ---
 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 <p align="center">
   🌙 <i>"Code in the dark, where glitches become art."</i>
 </p>
