@@ -2,46 +2,49 @@
 
 ---
 
-💻 Étudiant en informatique (IUT Informatique)  
-🚀 Passionné par le développement et la cybersécurité  
-⚡ Je crée principalement des bots Discord et des systèmes automatisés  
+💻 Computer Science student (IUT Informatique)  
+🚀 Passionate about development and cybersecurity  
+⚡ Mainly building Discord bots and automated systems  
 
 ---
 
-## 🧠 À propos de moi
+## 🧠 About Me
 
-- 🔭 Je travaille actuellement sur des bots Discord avancés (sécurité, gestion, automatisation)
-- 🌱 J’apprends Python, les systèmes backend et la cybersécurité
-- 🎯 Objectif : devenir développeur full stack / sécurité
-- 🎮 Intéressé par : jeux vidéo, Japon, nouvelles technologies
+- 🔭 Currently working on advanced Discord bots (security, management, automation)  
+- 🌱 Learning Python, backend systems, and cybersecurity  
+- 🎯 Goal: become a full stack / security developer  
+- 🎮 Interested in: video games, Japan, new technologies  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Langages
+### 💻 Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,html,css,bash,cs" height="50" />
 </p>
 
 ---
 
-### ⚙️ Outils & Plateformes
+### ⚙️ Tools & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,github,gitlab" height="50" />
 </p>
+
 ---
 
-## 🔥 Ce que je fais
+## 🔥 What I Do
 
-- 🤖 Développement de bots Discord
-- 🔐 Systèmes de sécurité (anti-raid, filtres, protections)
-- 📊 Gestion de données (JSON, automatisation)
-- ⚙️ Projets backend
+- 🤖 Discord bot development  
+- 🔐 Security systems (anti-raid, filters, protections)  
+- 📊 Data management (JSON, automation)  
+- ⚙️ Backend projects  
+
+---
 
 ### ☕ Fun Fact  
 > “Code is like the moon — sometimes it shines, sometimes it bugs, but it’s always fascinating.” 🌙  
 
 ---
 
-✨ _“Always balancing logic and creativity.”_  
+✨ _“Always balancing logic and creativity.”_
