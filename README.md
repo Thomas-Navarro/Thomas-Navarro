@@ -21,12 +21,14 @@
 
 ### 💻 Langages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,bash,cs" height="50" />
 </p>
 
-### ⚙️ Outils
+---
+
+### ⚙️ Outils & Plateformes
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,vscode" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,gitlab" height="50" />
 </p>
 ---
 
