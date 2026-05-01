@@ -6,14 +6,6 @@
 </p>
 
 ---
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,bash,c,php,sql,mysql,sqlite,react,git,github,gitlab,linux,ubuntu,windows,nginx,apache,figma,blender,unity,unreal,arduino" height="55" />
-</p>
-
 <!-- 🌸 TECH STACK - CYBER MAGAZINE STYLE -->
 
 <h2 align="center">⚡ 𝙏𝙀𝘾𝙃 𝙎𝙏𝘼𝘾𝙆 ⚡</h2>
