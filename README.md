@@ -1,16 +1,29 @@
-<!-- 🌙 BANNIÈRE ANIME -->
+<!-- ⚡ CYBER ANIME BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0f2027&height=250&section=header&text=Tsukiyomi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Code%20%7C%20Cybersecurity%20%7C%20Automation&descSize=20&descAlign=50&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:00c6ff&height=250&section=header&text=Tsukiyomi&fontSize=55&fontColor=00c6ff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%7C%20Development%20%7C%20Automation&descSize=20&descAlign=50&descAlignY=60" />
 </p>
 
-<!-- ✨ TYPING ANIMATION -->
+<!-- ⚡ TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7A85FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Discord+Bot+Developer;Cybersecurity+Enthusiast;Always+learning+new+things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C6FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Cybersecurity+Enthusiast;Discord+Bot+Developer;Building+secure+systems" />
 </p>
 
 ---
 
 # 🌙 Tsukiyomi
+
+<p align="center">
+  ⚡ <i>"In the dark, code becomes power."</i>
+</p>
+
+---
+
+## 🧠 About Me
+
+- 🔭 Developing advanced Discord bots (security, automation, management)  
+- 🌱 Learning backend systems & cybersecurity  
+- 🎯 Goal: Full Stack Developer specialized in Security  
+- 🎌 Interests: Gaming, Japanese culture, new technologies  
 
 ---
 
@@ -30,21 +43,28 @@
 
 ---
 
-## 🌸 Aesthetic
+## 🔥 What I Do
+
+- 🤖 Discord Bot Development  
+- 🔐 Security Systems (anti-raid, filtering, protection)  
+- 📊 Automation & Data Handling (JSON, scripting)  
+- ⚙️ Backend Projects  
+
+---
+
+## ⚡ Cyber Philosophy
 
 <p align="center">
-  🌙 Code • ⚡ Power • 🧠 Logic • 🎌 Discipline
+  💻 Code • 🔐 Security • ⚡ Automation • 🌙 Precision
 </p>
 
 ---
 
 ### ☕ Fun Fact  
-<p align="center">
-  "Code is like the moon — sometimes it shines, sometimes it bugs, but it’s always fascinating." 🌙  
-</p>
+> "Code is like the moon — silent, powerful, and full of hidden flaws." 🌙  
 
 ---
 
 <p align="center">
-  ✨ <i>"Walk your path, even in the dark."</i>
+  ⚡ <i>"Control the system, or be controlled."</i>
 </p>
