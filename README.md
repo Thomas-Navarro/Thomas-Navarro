@@ -12,19 +12,6 @@
 
 # 🌙 Tsukiyomi
 
-<p align="center">
-  ⚡ "Balancing logic and creativity, like the moon in the dark."
-</p>
-
----
-
-## 🧠 About Me
-
-- 🔭 Building advanced Discord bots (security, automation, management)  
-- 🌱 Learning backend development & cybersecurity  
-- 🎯 Goal: Full Stack Developer with a focus on Security  
-- 🎮 Interests: Gaming, Japanese culture, new technologies  
-
 ---
 
 ## 🛠️ Tech Stack
@@ -43,15 +30,6 @@
 
 ---
 
-## 🔥 What I Do
-
-- 🤖 Discord Bot Development  
-- 🔐 Security Systems (anti-raid, filtering, protection)  
-- 📊 Automation & Data Handling (JSON, scripting)  
-- ⚙️ Backend Projects  
-
----
-
 ## 🌸 Aesthetic
 
 <p align="center">
@@ -62,8 +40,9 @@
 
 ### ☕ Fun Fact  
 <p align="center">
-> "Code is like the moon — sometimes it shines, sometimes it bugs, but it’s always fascinating." 🌙  
+  "Code is like the moon — sometimes it shines, sometimes it bugs, but it’s always fascinating." 🌙  
 </p>
+
 ---
 
 <p align="center">
