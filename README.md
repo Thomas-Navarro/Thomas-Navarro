@@ -5,11 +5,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Cyber+Samurai+Developer;Full+Stack+Engineer;Develop+//+Test+//+Publish" />
 </p>
-  
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF2E88&center=true&vCenter=true&width=600&lines=IT+Student;Night+Coder;Discord+Bot+Developer;Video+Game+Developer" />
-</p>
 
 ---
 <!-- 🌸 TECH STACK - CYBER MAGAZINE STYLE -->
