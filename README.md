@@ -58,15 +58,6 @@
 
 ---
 
-### ⚙️ Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,github,gitlab" height="55" />
-</p>
-
----
-
----
-
 <p align="center">
   🌙 <i>"Code in the dark, where glitches become art."</i>
 </p>
