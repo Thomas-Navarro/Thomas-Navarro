@@ -2,7 +2,7 @@
 
 ---
 
-💻 Étudiant en informatique (STI2D SIN)  
+💻 Étudiant en informatique (IUT Informatique)  
 🚀 Passionné par le développement et la cybersécurité  
 ⚡ Je crée principalement des bots Discord et des systèmes automatisés  
 
@@ -20,23 +20,14 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Langages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+</p>
 
 ### ⚙️ Outils
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
-
----
-
-## 📊 Stats GitHub
-
-![Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight)
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,vscode" />
+</p>
 ---
 
 ## 🔥 Ce que je fais
