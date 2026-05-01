@@ -1,11 +1,11 @@
-<!-- 🗡️ SAMURAI BANNER -->
+<!-- 🌸 CYBER ANIME BANNER (PINK GLITCH STYLE) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2c2c2c,100:8b0000&height=250&section=header&text=Tsukiyomi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Code%20%7C%20Discipline%20%7C%20Precision&descSize=20&descAlign=50&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:ff2e88,100:1a1a1a&height=250&section=header&text=Tsukiyomi&fontSize=55&fontColor=ff2e88&animation=fadeIn&fontAlignY=35&desc=Code%20%7C%20Night%20%7C%20Precision&descSize=20&descAlign=50&descAlignY=60" />
 </p>
 
-<!-- ⚔️ TYPING EFFECT -->
+<!-- 💫 TYPING EFFECT (PINK NEON) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8B0000&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Backend+%26+Security+Focused;Discord+Bot+Developer;Discipline+over+complexity" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF2E88&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Night+Coder;Discord+Bot+Developer;Cybersecurity+Focused" />
 </p>
 
 ---
@@ -27,5 +27,5 @@
 ---
 
 <p align="center">
-  <i>"Master your code, like a blade."</i>
+  🌙 <i>"Code in the dark, where glitches become art."</i>
 </p>
