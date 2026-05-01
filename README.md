@@ -11,7 +11,7 @@
 
 ### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,bash,cs,cpp,c,go,rust,php,ruby,kotlin,swift,dart,scala,perl,haskell,elixir,clojure,matlab,sql,mysql,postgres,mongodb,sqlite,redis,graphql,react,vue,angular,svelte,nextjs,nuxtjs,nodejs,express,django,flask,spring,laravel,dotnet,tailwind,bootstrap,threejs,webpack,vite,git,github,gitlab,docker,kubernetes,linux,ubuntu,windows,nginx,apache,aws,azure,gcp,firebase,figma,blender,unity,unreal,arduino,raspberrypi" height="55" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,bash,c,php,sql,mysql,sqlite,react,git,github,gitlab,linux,ubuntu,windows,nginx,apache,figma,blender,unity,unreal,arduino" height="55" />
 </p>
 ---
 
