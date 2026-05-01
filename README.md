@@ -6,7 +6,7 @@
 ---
 <!-- 💫 TYPING EFFECT (PINK NEON) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF2E88&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Night+Coder;Discord+Bot+Developer;Cybersecurity+Focused" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF2E88&center=true&vCenter=true&width=600&lines=IT+Student;Night+Coder;Discord+Bot+Developer;Cybersecurity+Focused" />
 </p>
 
 ---
