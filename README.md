@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,blender,unity,unreal,arduino" />
+  <img src="https://skillicons.dev/icons?i=figma,blender,unity,unreal,arduino,vcs" />
 </p>
 
 ---
