@@ -1,6 +1,8 @@
-# 🌙 Thomas Navarro
+# 🌙 Tsukiyomi
 
-> Computer Science student at IUT | Passionate about coding, electronics, and Japanese culture 🇯🇵
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 ---
 
