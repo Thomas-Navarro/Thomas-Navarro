@@ -12,7 +12,7 @@
 
 <!-- BACKEND -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2e88,100:2a0a2a&height=40&section=header&text=⌈%20BACKEND%20⌋&fontSize=20&fontColor=ffffff"&animation=twinkling/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2e88,100:2a0a2a&height=40&section=header&text=⌈%20BACKEND%20⌋&fontSize=20&fontColor=ffffff&animation=twinkling"/>
 </p>
 
 <p align="center">
