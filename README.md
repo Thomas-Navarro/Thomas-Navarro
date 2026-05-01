@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,c,cs,go,rust,php,ruby,kotlin,swift,dart,scala,perl,haskell,elixir,clojure,matlab" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,php" />
 </p>
 
 <!-- FRONTEND -->
@@ -25,16 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,vue,angular,svelte,nextjs,nuxtjs,threejs,tailwind,bootstrap,webpack,vite" />
-</p>
-
-<!-- BACKEND -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2e88,100:2a0a2a&height=40&section=header&text=⌈%20BACKEND%20⌋&fontSize=20&fontColor=ffffff"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring,laravel,dotnet" />
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
 <!-- DATABASE -->
@@ -43,7 +34,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,graphql" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
 
 <!-- DEVOPS -->
@@ -52,17 +43,9 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,linux,nginx,apache" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,nginx,apache" />
 </p>
 
-<!-- CLOUD -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a0a2a,100:ff2e88&height=40&section=header&text=⌈%20CLOUD%20⌋&fontSize=20&fontColor=ffffff"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase" />
-</p>
 
 <!-- TOOLS -->
 <p align="center">
@@ -70,8 +53,9 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,blender,unity,unreal,arduino,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=figma,blender,unity,unreal,arduino" />
 </p>
+
 ---
 
 ### ⚙️ Tools & Platforms
