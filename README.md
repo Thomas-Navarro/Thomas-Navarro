@@ -2,21 +2,49 @@
 
 ---
 
-### 💻 About Me  
-I am currently a Computer Science student at IUT, with a strong interest in software development, embedded projects, and web technologies.  
-I have been coding for several years, always curious to learn new things and improve my projects.
-
-- 🎓 IUT student (STI2D → Computer Science)  
-- ⚡ Passion: Fusion of technology and creativity  
-- 🌍 Based in France  
+💻 Étudiant en informatique (STI2D SIN)  
+🚀 Passionné par le développement et la cybersécurité  
+⚡ Je crée principalement des bots Discord et des systèmes automatisés  
 
 ---
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-</p>
+
+## 🧠 À propos de moi
+
+- 🔭 Je travaille actuellement sur des bots Discord avancés (sécurité, gestion, automatisation)
+- 🌱 J’apprends Python, les systèmes backend et la cybersécurité
+- 🎯 Objectif : devenir développeur full stack / sécurité
+- 🎮 Intéressé par : jeux vidéo, Japon, nouvelles technologies
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Langages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Outils
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+## 📊 Stats GitHub
+
+![Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Ce que je fais
+
+- 🤖 Développement de bots Discord
+- 🔐 Systèmes de sécurité (anti-raid, filtres, protections)
+- 📊 Gestion de données (JSON, automatisation)
+- ⚙️ Projets backend
 
 ### ☕ Fun Fact  
 > “Code is like the moon — sometimes it shines, sometimes it bugs, but it’s always fascinating.” 🌙  
