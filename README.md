@@ -5,16 +5,6 @@
 
 ---
 
-<!-- 🖤 HERO IMAGE (GLITCH OVERLAY STYLE) -->
-<p align="center" style="position:relative;">
-
-  <!-- BASE IMAGE -->
-  <img src="https://i.imgur.com/yWy0gZF.png" width="850" style="border-radius:15px;">
-
-</p>
-
----
-
 <!-- 💫 NEON TYPE EFFECT -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FF2E88&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Cyber+Anime+Developer;Discord+Bot+Builder;Night+Mode+Always+On" />
