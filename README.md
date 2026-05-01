@@ -1,21 +1,11 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Tsukiyomi&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 # 🌙 Tsukiyomi
 
 ---
 
-💻 Computer Science student (IUT Informatique)  
-🚀 Passionate about development and cybersecurity  
-⚡ Mainly building Discord bots and automated systems  
-
----
-
-## 🧠 About Me
-
-- 🔭 Currently working on advanced Discord bots (security, management, automation)  
-- 🌱 Learning Python, backend systems, and cybersecurity  
-- 🎯 Goal: become a full stack / security developer  
-- 🎮 Interested in: video games, Japan, new technologies  
-
----
 
 ## 🛠️ Tech Stack
 
