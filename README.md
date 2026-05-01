@@ -9,14 +9,14 @@
 <p align="center" style="position:relative;">
 
   <!-- BASE IMAGE -->
-  <img src="https://imgur.com/a/joX0o6c" width="850" style="border-radius:15px;">
+  <img src="https://i.imgur.com/yWy0gZF.png" width="850" style="border-radius:15px;">
 
   <!-- GLITCH LAYER PINK -->
-  <img src="https://imgur.com/a/joX0o6c" width="850"
+  <img src="https://i.imgur.com/yWy0gZF.png" width="850"
        style="position:absolute; left:3px; top:0; opacity:0.25; filter:hue-rotate(300deg) saturate(2);">
 
   <!-- GLITCH LAYER BLUE -->
-  <img src="https://imgur.com/a/joX0o6c" width="850"
+  <img src="https://i.imgur.com/yWy0gZF.png" width="850"
        style="position:absolute; left:-3px; top:0; opacity:0.2; filter:contrast(150%) hue-rotate(180deg);">
 
 </p>
