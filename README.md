@@ -13,6 +13,73 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,html,css,bash,c,php,sql,mysql,sqlite,react,git,github,gitlab,linux,ubuntu,windows,nginx,apache,figma,blender,unity,unreal,arduino" height="55" />
 </p>
+
+<!-- 🌸 TECH STACK - CYBER MAGAZINE STYLE -->
+
+<h2 align="center">⚡ 𝙏𝙀𝘾𝙃 𝙎𝙏𝘼𝘾𝙆 ⚡</h2>
+
+<!-- LANGUAGES -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2e88,100:2a0a2a&height=40&section=header&text=⌈%20LANGUAGES%20⌋&fontSize=20&fontColor=ffffff"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,c,cs,go,rust,php,ruby,kotlin,swift,dart,scala,perl,haskell,elixir,clojure,matlab" />
+</p>
+
+<!-- FRONTEND -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a0a2a,100:ff2e88&height=40&section=header&text=⌈%20FRONTEND%20⌋&fontSize=20&fontColor=ffffff"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,vue,angular,svelte,nextjs,nuxtjs,threejs,tailwind,bootstrap,webpack,vite" />
+</p>
+
+<!-- BACKEND -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2e88,100:2a0a2a&height=40&section=header&text=⌈%20BACKEND%20⌋&fontSize=20&fontColor=ffffff"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring,laravel,dotnet" />
+</p>
+
+<!-- DATABASE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a0a2a,100:ff2e88&height=40&section=header&text=⌈%20DATABASE%20⌋&fontSize=20&fontColor=ffffff"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,graphql" />
+</p>
+
+<!-- DEVOPS -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2e88,100:2a0a2a&height=40&section=header&text=⌈%20DEVOPS%20⌋&fontSize=20&fontColor=ffffff"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,linux,nginx,apache" />
+</p>
+
+<!-- CLOUD -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a0a2a,100:ff2e88&height=40&section=header&text=⌈%20CLOUD%20⌋&fontSize=20&fontColor=ffffff"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase" />
+</p>
+
+<!-- TOOLS -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2e88,100:2a0a2a&height=40&section=header&text=⌈%20TOOLS%20⌋&fontSize=20&fontColor=ffffff"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,blender,unity,unreal,arduino,raspberrypi" />
+</p>
 ---
 
 ### ⚙️ Tools & Platforms
