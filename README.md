@@ -1,9 +1,26 @@
+<!-- 🗾 MANGA PANEL HEADER -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:ff2e88,100:2a0a2a&height=250&section=header&text=TSUKIYOMI&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=180&section=header&text=TSUKIYOMI&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;Develop+//+Test+//+Publish" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2000&pause=700&color=FFFFFF&center=true&vCenter=true&width=800&lines=「+Cyber+Samurai+Developer+」;「+Code.+Fight.+Evolve.+」;「+No+Bug+Survives+」" />
+</p>
+
+<!-- Manga panels -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,100:ffffff&height=2&section=header"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:0a0a0a&height=120&section=header&text=⌈%20DEVELOP%20⌋&fontSize=25&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:0a0a0a&height=120&section=header&text=⌈%20TEST%20⌋&fontSize=25&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:0a0a0a&height=120&section=header&text=⌈%20PUBLISH%20⌋&fontSize=25&fontColor=ffffff"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,100:ffffff&height=2&section=header"/>
 </p>
 
 ---
