@@ -27,5 +27,5 @@
 ---
 
 <p align="center">
-  ⚔️ <i>"Master your code, like a blade."</i>
+  <i>"Master your code, like a blade."</i>
 </p>
