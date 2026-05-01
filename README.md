@@ -61,8 +61,9 @@
 ---
 
 ### ☕ Fun Fact  
+<p align="center">
 > "Code is like the moon — sometimes it shines, sometimes it bugs, but it’s always fascinating." 🌙  
-
+</p>
 ---
 
 <p align="center">
