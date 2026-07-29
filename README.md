@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
+  <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
 <!-- DATABASE -->
@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,nginx" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux" />
 </p>
 
 
