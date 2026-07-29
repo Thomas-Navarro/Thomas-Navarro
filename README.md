@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,blender,unity,unreal,arduino,vscode" />
+  <img src="https://skillicons.dev/icons?i=figma,arduino,vscode" />
 </p>
 
 ---
