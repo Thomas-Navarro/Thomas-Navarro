@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,php" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,php" />
 </p>
 
 <!-- FRONTEND -->
@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql,mariadb,mongodb,sqlite" />
 </p>
 
 <!-- DEVOPS -->
@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,arduino,vscode" />
+  <img src="https://skillicons.dev/icons?i=figma,arduino,vscode,idea" />
 </p>
 
 ---
