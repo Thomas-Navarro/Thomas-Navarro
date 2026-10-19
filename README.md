@@ -54,9 +54,5 @@
 ---
 
 <p align="center">
-  🌿 <i>"Resting in the shade, where ideas grow like leaves."</i>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TonPseudoOuLienVersLImage/image_0.png" alt="Kirito resting in the grass" width="500"/>
+  🌿 <i>"Code in the dark, where glitches become art."</i>
 </p>
