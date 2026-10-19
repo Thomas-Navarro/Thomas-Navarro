@@ -1,13 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:ff2e88,100:2a0a2a&height=250&section=header&text=TSUKIYOMI&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000c1f,40:1b4d3e,75:2ecc71,100:1c1c1c&height=250&section=header&text=TSUKIYOMI&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full+Stack+IT+Student;Develop+//+Test+//+Publish" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=800&color=98FB98&center=true&vCenter=true&width=700&lines=Full+Stack+IT+Student;Develop+//+Test+//+Publish" />
 </p>
 
+<!-- BACKEND -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2e88,100:2a0a2a&height=40&section=header&text=⌈%20BACKEND%20⌋&fontSize=20&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1b4332,100:0f2027&height=40&section=header&text=⌈%20BACKEND%20⌋&fontSize=20&fontColor=ffffff"/>
 </p>
 
 <p align="center">
@@ -16,7 +17,7 @@
 
 <!-- FRONTEND -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a0a2a,100:ff2e88&height=40&section=header&text=⌈%20FRONTEND%20⌋&fontSize=20&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2e7d32&height=40&section=header&text=⌈%20FRONTEND%20⌋&fontSize=20&fontColor=ffffff"/>
 </p>
 
 <p align="center">
@@ -25,7 +26,7 @@
 
 <!-- DATABASE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a0a2a,100:ff2e88&height=40&section=header&text=⌈%20DATABASE%20⌋&fontSize=20&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2e7d32&height=40&section=header&text=⌈%20DATABASE%20⌋&fontSize=20&fontColor=ffffff"/>
 </p>
 
 <p align="center">
@@ -34,17 +35,16 @@
 
 <!-- DEVOPS -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2e88,100:2a0a2a&height=40&section=header&text=⌈%20DEVOPS%20⌋&fontSize=20&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1b4332,100:0f2027&height=40&section=header&text=⌈%20DEVOPS%20⌋&fontSize=20&fontColor=ffffff"/>
 </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux" />
 </p>
 
-
 <!-- TOOLS -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2e88,100:2a0a2a&height=40&section=header&text=⌈%20TOOLS%20⌋&fontSize=20&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1b4332,100:0f2027&height=40&section=header&text=⌈%20TOOLS%20⌋&fontSize=20&fontColor=ffffff"/>
 </p>
 
 <p align="center">
@@ -54,5 +54,9 @@
 ---
 
 <p align="center">
-  🌙 <i>"Code in the dark, where glitches become art."</i>
+  🌿 <i>"Resting in the shade, where ideas grow like leaves."</i>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TonPseudoOuLienVersLImage/image_0.png" alt="Kirito resting in the grass" width="500"/>
 </p>
