@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mariadb,mongodb,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
 </p>
 
 <!-- DEVOPS -->
